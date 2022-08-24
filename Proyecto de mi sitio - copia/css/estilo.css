@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+Body header{
+	color: darkorange;
+}
+.menu{
+	color: honeydew;
+	text-align: center;
+	background-color: burlywood;
+}
+.bg-warning {
+background-color: #d06a09 !important;
+}
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+}
+.navbar-light .navbar-nav  .nav-link{
+	color: #3D41DC;
+}
+
+.navbar-light .navbar-nav  .nav-link:hover{
+	color: #AF9B9B;
+}
+.pie01{
+ backgrund-color: #d06a09;
+color: #646464;
+	margin-top: 60px;
+}
+.pie01 a{
+	color: #000000;
+}
+.pie01 a{
+	color: #F17D0B;
+	}
+.pie02{
+	background-color: #2A2828;
+	color: #000000;
+	padding-top: 20px;
+	padding-bottom:  20px;
+	
+} 
+.pie de pagina{
+	background-color: #030303;
+	color: #1F1E1E
+}
+	
